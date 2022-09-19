@@ -4,6 +4,8 @@
 
 ### Description
 
+Ref: https://raxis.com/blog/log4j-exploit
+
 The demo Tomcat 8 server on port 8080 has a vulnerable app (log4shell) deployed on it and the server also vulnerable via user-agent attacks.
 
 The remote exploit app in this demo is based on that found at https://github.com/kozmer/log4j-shell-poc
